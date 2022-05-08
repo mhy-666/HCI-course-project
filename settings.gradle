@@ -1,0 +1,19 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "mhy"
+include ':app'
+include ':core'
+project(':core').projectDir = new File(rootDir, 'baidu_speech_ASR_V3_20210628_cfe8c44_3.4.4/core/')
+
