@@ -20,7 +20,7 @@ public class FirstActivity extends AppCompatActivity {
         btn1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Toast.makeText(FirstActivity.this,"you have clicked up Btn1",Toast.LENGTH_SHORT).show();
+                Toast.makeText(FirstActivity.this,"you have clicked up Btn2",Toast.LENGTH_SHORT).show();
             }
         });
     }

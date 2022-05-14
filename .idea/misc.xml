@@ -3,9 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/JavaProjects/HCI/app/src/main/res/layout/activity_main.xml" value="0.152" />
+        <entry key="..\:/JavaProjects/HCI/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/JavaProjects/HCI/app/src/main/res/layout/first_layout.xml" value="0.1125" />
         <entry key="..\:/JavaProjects/HCI/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1235" />
+        <entry key="..\:/JavaProjects/HCI/baidu_speech_ASR_V3_20210628_cfe8c44_3.4.4/core/src/main/res/layout/common_mini.xml" value="0.15208333333333332" />
       </map>
     </option>
   </component>
