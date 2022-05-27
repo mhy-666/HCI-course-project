@@ -1,6 +1,7 @@
 package com.baidu.aip.asrwakeup3.core.mini;
 
 import android.Manifest;
+import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.os.Bundle;
 import android.util.Log;
@@ -78,6 +79,8 @@ public class ActivityMiniWakeUp extends AppCompatActivity implements EventListen
         wakeup = EventManagerFactory.create(this, "wp");
         // 基于SDK唤醒词集成1.3 注册输出事件
         wakeup.registerListener(this); //  EventListener 中 onEvent方法
+
+
         btn.setOnClickListener(new View.OnClickListener() {
 
             @Override
