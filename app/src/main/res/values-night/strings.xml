@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UIT</string>
+    <string name="coverTitle">“疫”起学习</string>
+    <string name="coverTitleEn">Study &#160;With &#160;Me</string>
+    <string name="coverDescription">您身边的语音小助手</string>
+    <string name="coverEnter">进入</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
